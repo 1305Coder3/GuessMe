@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ecc62b78bab4c3524d3e1d002cd29262d3e0df29">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\instant-run_7aff302fd5edfe8ad3523b8596fae5690ce567cf.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a09d7f948b0643bdb5e06201d456ce6b762d9032.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_1297bdd9ddf6f0393a6cdc6eb492d5f218fd5760.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_236d506d65d2210c583c9128433710ee30f52000.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c1c654a622c70ab0d798e91db4933c9a09a5be4d.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_6eff665cec2fb72630cdb62159a4b00878eaa171.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="340fae6fc580ceb811326af0f8b39e8ce1395f4b">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6e89ab24bc7996527ffa2ca1559194d7bc5409c0.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_932128d791922290e900b44eae0b567ff9bdfd0c.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_d21439b105ddedcfab9aa5b029d7d5365a2f9283.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_4b03a037075106775ed420d4aae7682271bfaea7.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_141f30950c365128812347bb3be6cf449825c2c6.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ab244759e4de75f72378fdbc0c65f0bd7dfb50c5.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\libs\faceppsdk.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d3384595c699a5be231ad099b07b96741806750a">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\faceppsdk_48f1524627d4b7112cb5d823e142d326630deafd.jar" />
+    </item>
+    <item
+        jar="F:\study\android-sdk-windows-r24-updated\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_4c9ce26d7d69a1d2d4d1daa8bae1f81e8f089413.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_a05ae951af1c883a61a8d3c09e83ac492f468342.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_db9e0f895dd8c019a41211dff845a29c91792905.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_8c1f1038994b0e467b314d8476569d6455c394e9.jar" />
+    </item>
+    <item
+        jar="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\study\AndroidWorkSpace\FacePlusPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_ca56694a85f1c73dece60d2872b6638cedb3ff30.jar" />
+    </item>
+
+</items>
